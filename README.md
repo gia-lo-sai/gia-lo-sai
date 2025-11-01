@@ -68,7 +68,7 @@ https://github.com/gia-lo-sai/portfolio/blob/main/demo.gif)
 *4. Lingue parlate o supportate*
 Se lavori in ambienti multilingua:
 
-#######🌍 Lingue
+🌍 Lingue
 
 - Italiano 🇮🇹
 - Inglese 🇬🇧
