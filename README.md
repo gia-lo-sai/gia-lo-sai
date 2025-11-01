@@ -55,11 +55,10 @@ Puoi inserire una preview visiva dei tuoi progetti:
 https://github.com/gia-lo-sai/portfolio/blob/main/demo.gif)
 
 
-*3. Sezione “Cosa sto facendo ora”*
-Una nota personale per mostrare che il profilo è attivo:
 
 
-###### 🔧 Attualmente sto lavorando su...
+
+🔧 Attualmente sto lavorando su...
 
 - Un'app mobile per esplorare contenuti culturali
 - Migliorare il mio portfolio con animazioni GSAP
@@ -69,8 +68,7 @@ Una nota personale per mostrare che il profilo è attivo:
 *4. Lingue parlate o supportate*
 Se lavori in ambienti multilingua:
 
-
-######## 🌍 Lingue
+#######🌍 Lingue
 
 - Italiano 🇮🇹
 - Inglese 🇬🇧
