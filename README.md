@@ -26,9 +26,9 @@ Sono uno sviluppatore full-stack con un forte interesse per:
 
 ####📫 Contatti
 
-- 🌐 (https://gia-lo-sai.dev) *(se disponibile)*
-- 📧 Email: gia.lo.sai@example.com
-- 🐦 Twitter: [@gia_lo_sai](https://twitter.com/gia_lo_sai)
+- 🌐 (https://gia-lo-sai.dev) 
+- 📧 Email: gia.lo.sai@xxxxxxxx.com
+
 
 
 
