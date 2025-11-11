@@ -55,7 +55,7 @@ Puoi inserire una preview visiva dei tuoi progetti:
 
 #####🎥 Anteprima
 
-https://github.com/gia-lo-sai/portfolio/blob/main/demo.gif)
+https://github.com/gia-lo-sai/portfolio/blob/main/demo.gif
 
 
 
