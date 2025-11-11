@@ -20,13 +20,16 @@ Sono uno sviluppatore full-stack con un forte interesse per:
 
 #### 📂 Progetti in evidenza
 
-- [jchnusa-apk-web](https://github.com/gia-lo-sai/jchnusa-apk-web): Web app con deploy su Netlify
-- [portfolio](https://github.com/gia-lo-sai/portfolio): Portfolio personale con animazioni e design responsive
-- [api-playground](https://github.com/gia-lo-sai/api-playground): Esperimenti con API REST e GraphQL
+- [jchnusa-apk-web]
+- https://github.com/gia-lo-sai/jchnusa-apk-web: Web app con deploy su Netlify
+- [portfolio]
+- https://github.com/gia-lo-sai/portfolio: Portfolio personale con animazioni e design responsive
+- [api-playground]
+- https://github.com/gia-lo-sai/api-playground: Esperimenti con API REST e GraphQL
 
 ####📫 Contatti
 
-- 🌐 (https://gia-lo-sai.dev) 
+- 🌐 https://gia-lo-sai.dev
 - 📧 Email: gia.lo.sai@xxxxxxxx.com
 
 
