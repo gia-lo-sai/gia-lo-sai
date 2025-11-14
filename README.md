@@ -29,8 +29,8 @@ Sono uno sviluppatore full-stack con un forte interesse per:
 
 ####📫 Contatti
 
-- 🌐 https://gia-lo-sai.dev
-- 📧 Email: gia.lo.sai@xxxxxxxx.com
+- 🌐 https://portfolio-phi-ten-izk0t1t4e1.vercel.app/
+- 📧 Email: mr.wolf311@proton.me
 
 
 
